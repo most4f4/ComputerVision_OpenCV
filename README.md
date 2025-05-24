@@ -77,11 +77,11 @@ $ python imageArithmetic.py
 
 📷 Screenshot Example:
 
-![Menu](screenshots/manu.png)
+![Menu](screenshots/menu.png)
 
-![Adjusting Brightness](screenshots/manu2.png)
+![Adjusting Brightness](screenshots/menu2.png)
 
-![Adjusting Brightness](screenshots/brightness.png.png)
+![Adjusting Brightness](screenshots/brightness.png)
 
 ![Adjusting Contrast](screenshots/contrast.png)
 
