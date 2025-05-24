@@ -77,26 +77,30 @@ $ python imageArithmetic.py
 
 📷 Screenshot Example:
 
-![Menu](screenshots/menu.png)
-
+**Adjusting Brightness**  
 ![Adjusting Brightness](screenshots/menu2.png)
-
 ![Adjusting Brightness](screenshots/brightness.png)
 
+**Adjusting Contrast**  
 ![Adjusting Contrast](screenshots/contrast.png)
 
+**Converting to GrayScale**  
 ![Converting to GrayScale](screenshots/grayscale.png)
 
+**Add padding**  
 ![Add padding](screenshots/padding.png)
 
+**Add Threshold**  
 ![Add Threshold](screenshots/thresh1.png)
-
 ![Add Threshold](screenshots/thresh2.png)
 
+**Blending Images**  
 ![Blending Images](screenshots/blend.png)
 
+**Save and Display Logs**  
 ![Save and Display Logs](screenshots/save.png)
 
+**Saved Image**  
 ![Saved Image](screenshots/final.png)
 
 ---
